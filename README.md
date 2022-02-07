@@ -8,4 +8,4 @@ Repozitář s maturitní prací.
 3. V příkazové řádce se přesměrujeme do adresáře, do kterého chceme složku stáhnout.
 4. Zadáme příkaz: git clone, za který vložíme odkaz na repozitář.
 - Příkaz tedy bude vypadat takto: git clone https://github.com/xatom01/Maturitni-prace
-5. Repozitář se nám naklonuje do počítače a můžeme s ním pracovat.
+5. Repozitář se nám naklonuje do počítače a můžeme s ním vesele pracovat.
